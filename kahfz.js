@@ -2557,7 +2557,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Report Bug',
-                                    url: 'https://wa.me/6281365814200?text=Bang+Lapor+Ada+Bug'
+                                    url: 'https://wa.me/6285861009691?text=Bang+Lapor+Ada+Bug'
                                 }
                             }, {
                             	urlButton: {
